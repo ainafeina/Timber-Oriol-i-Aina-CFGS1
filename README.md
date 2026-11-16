@@ -6,7 +6,7 @@
 
 Projecte desenvolupat per a l'assignatura **0485 - Programació** (Curs 2026–2027) partint del codi base `TimberSFML3.cpp`. El joc transforma el clàssic *Timber* incorporant nous recursos gràfics i sonors, gestió avançada d'estructures de dades, múltiples modes de joc i persistència de rècords.
 
-🌐 **[Visita la web del projecte (GitHub Pages)](https://[el-vostre-usuari].github.io/[nom-del-repositori]/)** | 📦 **[Descarrega l'executable (v1.0)](../../releases/tag/v1.0)**
+📦 **[Descarrega l'executable (v1.0)](../../releases/tag/v1.0)**
 
 ---
 
