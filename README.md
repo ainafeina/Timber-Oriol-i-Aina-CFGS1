@@ -14,8 +14,8 @@ Projecte desenvolupat per a l'assignatura **0485 - Programació** (Curs 2026–2
 
 El desenvolupament s'ha dut a terme seguint la metodologia de **programació en parella**, alternant els rols de **Pilot** (implementació de codi) i **Copilot** (revisió, documentació i proves) a cada sessió:
 
-* **[Oriol Serra ]** - [@oriolserra](https://github.com)
-* **[Aina Pages]** - [@ainafeina1](https://github.com)
+* **[Oriol Serra ]** - [@nakle5](https://github.com)
+* **[Aina Pages]** - [@ainafeina](https://github.com)
 
 ---
 
