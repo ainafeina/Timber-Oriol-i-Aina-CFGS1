@@ -1,6 +1,6 @@
 # 🪓 Timber V2 - Projecte de Programació Estructurada
 
-[![C++](https://shields.io)](https://isocpp.org)
+[![C++](https://shields.io)](https://isocpp.org) 
 [![SFML](https://shields.io)](https://sfml-dev.org)
 [![Release](https://shields.io)](../../releases/tag/v1.0)
 
@@ -14,8 +14,8 @@ Projecte desenvolupat per a l'assignatura **0485 - Programació** (Curs 2026–2
 
 El desenvolupament s'ha dut a terme seguint la metodologia de **programació en parella**, alternant els rols de **Pilot** (implementació de codi) i **Copilot** (revisió, documentació i proves) a cada sessió:
 
-* **[Nom i Cognoms Estudiant 1]** - [@usuariGitHub1](https://github.com)
-* **[Nom i Cognoms Estudiant 2]** - [@usuariGitHub2](https://github.com)
+* **[Oriol Serra ]** - [@oriolserra](https://github.com)
+* **[Aina Pages]** - [@ainafeina1](https://github.com)
 
 ---
 
