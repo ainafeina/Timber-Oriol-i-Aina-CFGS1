@@ -1,8 +1,8 @@
 # 🪓 Timber V2 - Projecte de Programació Estructurada
 
-[![C++](https://shields.io)](https://isocpp.org) 
-[![SFML](https://shields.io)](https://sfml-dev.org)
-[![Release](https://shields.io)](../../releases/tag/v1.0)
+[C++](https://shields.io)](https://isocpp.org) 
+[SFML](https://shields.io)](https://sfml-dev.org)
+[Release](https://shields.io)](../../releases/tag/v1.0)
 
 Projecte desenvolupat per a l'assignatura **0485 - Programació** (Curs 2026–2027) partint del codi base `TimberSFML3.cpp`. El joc transforma el clàssic *Timber* incorporant nous recursos gràfics i sonors, gestió avançada d'estructures de dades, múltiples modes de joc i persistència de rècords.
 
