@@ -63,7 +63,7 @@ El projecte s'ha estructurat en **9 reptes progressius** dividits per nivells de
 ### Opció 2: Compilar des del codi font
 1. Cloneu el repositori:
    ```bash
-   git clone https://github.com[el-vostre-usuari]/[nom-del-repositori].git
+   git clone https://github.comainafeina/Timber-Oriol-i-Aina-CFGS1.git
    ```
 2. Obriu el projecte al vostre IDE (Visual Studio / Code::Blocks / CLion) amb **SFML 3.0** configurat.
 3. Compileu i executeu el fitxer principal `TimberSFML3.cpp`.
